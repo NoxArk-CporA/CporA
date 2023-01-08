@@ -1,5 +1,2 @@
 test
-<<<<<<< Updated upstream
-=======
-test at sn terminal
->>>>>>> Stashed changes
+test at sn terminl
