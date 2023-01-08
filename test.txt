@@ -1,7 +1,4 @@
 test
 test at sn terminal
-<<<<<<< Updated upstream
-Test sn branch
-=======
-What
->>>>>>> Stashed changes
+Comment in sn branch
+now merging to main
