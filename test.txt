@@ -1,2 +1,2 @@
 test
-test at sn terminl
+test at sn terminal
